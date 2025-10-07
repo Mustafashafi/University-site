@@ -1,0 +1,52 @@
+
+      body {
+        font-family: Newsreader, "Noto Sans", sans-serif;
+      }
+
+      /* Hero Section Background */
+      .hero-bg {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 100%),
+          url("https://lh3.googleusercontent.com/aida-public/AB6AXuCMs6bYeo4F9jzOcImzNtL2fhU8GWPXQk-XkSharu_wLSEZ8G4syV25TjNOVRKWFKwe76HOrhFeVjDOX6_wximeT7NOj3Z0wxJFWz8H94q4_33523Nl-qqM15h-VzPKpE-hkFQWMjJ1q5_ZB08-WrASOgoXNjJxEuCNqCz7ZSVq0SOuGTovaKO586pve80gBMyDcQgay9H2IcAsdu0gIf5aE_g_snADIFayZ6YHB1U_lSzkVuDwAu1rwgi1GzFyINn4b68kaUwAz-u3");
+      }
+
+      /* Featured Programs Backgrounds */
+      .bg-engineering {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAERpUAh3yjSbkx-rvATZ72C8ujGBX9TXloIgaLu6KXHRfAzsZ0R3Qnx3SdoYMQWtb6O2dg8b8rohkkzYR67ebC2KV5OfhZql-KSx0lnkw_IICSpIOjUx3DFairjDkhSKdy9D4WyoPFMgMYb818roDdSGOCYzFhRfH-_gevBpxAm4ucewSR-pFbvwhC5nr-F0OiRFG9ZUJCiUAdHoIceU4ZLKZVOB40UZMfwdWlXu7lL48290qZK7aJnj3c2pdHX4LBfukDaHWRr99q");
+      }
+
+      .bg-medicine {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDCOvKiYDAxrFal3JLBl1wYZcV0Tu8ZjMzhvDC0YhU6QEAgPyrn67DZd1FeR157krRd1QOZbWZha5YzDx98MVcJHU65fsHCGbZ0QTXjjiNOXK6bUBYS5vc8K3CUCOmR9-BnxqS1lGilfJibmZvbyOOWRaytGoomIksfuO2PSQMHMaobs25liVjMWY34GIpTOv51HESjIDJzsx-KDY6hCAX9PNoY9tdWfdHICYywXlKoi94DAkGaOaCOqPMz-EGTpvNiHaEp1XECfClZ");
+      }
+
+      .bg-business {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuD6swQVdw7i1c4GrS8Ne4GbGQjK3Pv8MiSm0FuSN9kYNrBZyUa5Fa7GmLj5iZGqipmkRlHsd0u5xBWY08ThkXvS5PT6qB0cLeNSRFt8Ey2AqR3J3gdsSlCWjTktrLpKhqGFl3CPVQDSXqbWoiF1BFLwMA7eANu0fda0h1xTsNPuupax0XGKLcVimvxUDePp6GCOLmVj83tfJ_Jx5X5Z7vDotJg6FNivhIQGt2R9Sxlw_HONzzilR9mMumlSTCc4Z569_KhvEHLBFKT8");
+      }
+
+      /* News & Events */
+      .bg-news {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBLKSLct4DT-tfVR0C99vWyYt895seAhbsuu-f1PO0SDAekmPP8RgnxIsBpdkTm8SBF4SOIpK53iigQtizUUm5qNY6670wgoXnzl35Je5kCo7XKC2H6nQQYYcd7Tn_TWeEaQx2kJzn8xjjAxTnv7FJDW4jV7iDOk9a5TA-RL8MBl_7Xnx0JAKryYZcmaI5vW-BeYz1TQi0BB8Yia87bgNIJd-TbbSFTPAcQnRmoBmzsQEGtC_XCw_ZZiT9iyAbcTX8kDYFuskJ3QNQY");
+      }
+
+      .bg-event {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBWamjTZNRDCqrF7t5DnjnOrB3haPo__bkZA16_IR5Cwmi0bIpn3fhCPit_zuurDGcDv2Yd9_phaA7NkFfWH-IewJMXikuW34kY088tJEBhswZMcvxLkn1ugBWzjNqxavSzu8q2Vz77seSYLG1e-eZgnph8Ms--tpHP4NZYZD0Y5vd7dD9kgdD6ASbgYG0E8oEX_2dcpkJpQxuCbc3eWyeyqWOu92ThS_ilRMnTuMlUql_Hct8IVoQsJQ_bOdZbT0QoBvILK_xhlnFQ");
+      }
+
+      /* Student Life */
+      .bg-housing {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDbegjAiIDwntkxlZzbTuVDVyZ-oP60jZ6SxGUyKl76Wj1FdBQ97x6jvWY9x9YKU5LMHHGDVQn6_3g8vnSHI9pAdLpU7JfCDs_qApPqt99OaSn2lo76FxRq5Ofkh5lCm5T8mmFJlbPGhWlHMz3T5NdnCOmVz-FZ-CgkIsS_pudd-mZ6OvOxJJXr64pYN3vlpoItVSLVDPjbxqNavlU2SZNZkHPCmIkbgzULDtHgBdfisb2uEKIojnLoWFJF2F6rzmbb7NGpFEznT4CP");
+      }
+
+      .bg-organizations {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuApdryABophc34oJTPuGscvCPXqtDHap2EYCUK6aIvnJMHZMCLNqpr8IsgjSpjdW9_VeP808kjn9aBlIwjNWWouQKjOtOuYc1JXtqKT3ZQG8ppRbtLaTKj4ot9UidRLsaOsXeAGboI1ACzz5lYx4xLVoHpnfFZbEQ0oB3UZ72CanfKifpU8PI0o36msiz8ZzSw8Vk9UAh2LBzNKtqn7v4gcGrZNd0tUuRaCzon46t00bg4REVfcmzbd87WyO9FJl2Np7ruFR1xozo-U");
+      }
+
+      .bg-athletics {
+        background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBLJeFEnVLW0Y4_MfKCiHtAtSJvJXbEyp10OfwFw5mZtGzU26J4Y2A5FPJXV1MGWYTeSHBaY-7REF6WJYWupgKBb9-iqsTlZgeoR0--7AzjnnB_Bwh4GsmOikQ3uiZzBd4nVlDEgpZl1sYIKiA5_VmcYTUgVzGlwfhEXNi0P3qm1nVy9PyfockV3TKYQU5VYNolKZAjhj3JIzV5YKmWfTyk_iV8AmcN_HbRg6S6wgsc0-zjHb2KVNFQXHfbHzgKCb3bbCOCC4AN9lx8");
+      }
+
+      /* Shared background properties */
+      .bg-common {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
